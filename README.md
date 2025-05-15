@@ -16,3 +16,5 @@ DESCRIPTION OF TASK :The FileOperations program in Java demonstrates essential f
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/7d415c0d-b3d4-4192-bcb8-25430bfb5500)
+
